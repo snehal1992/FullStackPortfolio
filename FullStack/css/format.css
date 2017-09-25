@@ -1,0 +1,54 @@
+h3{
+    text-align: center;
+}
+h1{
+  width:100%;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
+section{
+	box-sizing: border-box;
+	width:100%;
+}
+figure{
+	width: 25%;
+}
+.projectImage{
+	height:30%;
+	width:40%;
+}
+#logo{
+  height: 100px;
+  width: 10% ;
+  display: inline-block;
+}
+figure,article{
+	display: inline-block;
+	box-sizing: border-box;
+	margin: 5px;
+
+}
+article{
+	width:65%;
+	vertical-align: top;
+}
+.topleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+}
+@media screen and (max-width: 700px)  {
+    figure{
+        width:90%;
+        text-align: center;
+    }
+    article{
+      width:90%;
+      text-align: justify;
+    }
+    section{
+    	box-shadow: 0px 0px 0px;
+    }
+}
