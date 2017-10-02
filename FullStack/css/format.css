@@ -1,7 +1,8 @@
 h3{
-    text-align: center;
-    width:100%;
+  text-align: center;
+  width:100%;
 }
+
 h1{
   width:80%;
   display: inline-block;
@@ -12,37 +13,43 @@ h1{
 figure{
   text-align: center;
 }
-.projectImage{
+
+.project-image{
 	height:30%;
 	width:40%;
 }
+
 #logo{
   float:left;
   height: 15%;
   width: 10% ;
   display: inline-block;
 }
+
 figure,p{
 	display: inline-block;
 	box-sizing: border-box;
 	margin: 5px;
 
 }
+
 p{
 	vertical-align: top;
   margin-top: 5px;
   text-align: justify;    
 }
+
 .topleft {
-    position: relative;
-    left: 16px;
-    font-size: 18px;
+  position: relative;
+  left: 16px;
+  font-size: 18px;
 }
+
 @media screen and (max-width: 768px)  {
-    figure{
-        width:90%;
-        text-align: center;
-    }
+  figure{
+    width:90%;
+    text-align: center;
+  }
 
 }
 
