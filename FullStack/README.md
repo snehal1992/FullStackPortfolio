@@ -1,6 +1,6 @@
 README 
 
-temp.html -- Original project file 
+index.html -- Original project file 
 
 css -  Folder contains css files for styling
 

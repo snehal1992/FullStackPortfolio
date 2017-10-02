@@ -1,39 +1,47 @@
-h3{
+h3 {
   text-align: center;
   width:100%;
 }
 
-h1{
+h1 {
   width:80%;
   display: inline-block;
   vertical-align: top;
   text-align: center;
 }
 
-figure{
+figure {
   text-align: center;
 }
 
-.project-image{
+.project-image {
 	height:30%;
 	width:40%;
 }
 
-#logo{
+#button1 {
+  font-size:18px;
+}
+
+#bottom-id {
+  float:right;
+}
+
+#logo {
   float:left;
   height: 15%;
   width: 10% ;
   display: inline-block;
 }
 
-figure,p{
+figure,p {
 	display: inline-block;
 	box-sizing: border-box;
 	margin: 5px;
 
 }
 
-p{
+p {
 	vertical-align: top;
   margin-top: 5px;
   text-align: justify;    
