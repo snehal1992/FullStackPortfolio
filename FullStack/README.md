@@ -1,12 +1,12 @@
-README 
+# README 
 
-index.html -- Original project file 
+* index.html : Original project file 
 
-css -  Folder contains css files for styling
+* css : Folder contains css files for styling
 
-img - Contains images used in index.html file 
+* img : Contains images used in index.html file 
 
 
-How to run ?
+### How to run ?
 
-Run the html file in Chrome browser 
+* Run the index.html file in any browser preferably Chrome
